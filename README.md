@@ -1,6 +1,6 @@
-# Express Handlebars Auth Accelerator v1.0.0
+# Express + Handlebars + Auth Scaffolding
 
-**Application Name:** Express Handlebars Auth Accelerator
+**Application Name:** Express + Handlebars + Auth Scaffolding
 
 **Application Description:** A simple Node / Express accelerator which includes "[Express-Handlebars] (https://www.npmjs.com/package/express-handlebars)", "[New Relic APM] (https://www.npmjs.com/package/newrelic)" and authentication using the [Force.com PassportJS] (https://github.com/joshbirk/passport-forcedotcom) strategy.
 
@@ -23,7 +23,7 @@
 
 ***Prerequisites:***
 
-A Force.com Connected App is required to implement this accelerator.
+Built to run on Heroku with a Force.com Connected App for authentication.
 
 Add the [Heroku Redis] (https://elements.heroku.com/addons/heroku-redis) and [New Relic APM] (https://elements.heroku.com/addons/newrelic) add-ons to your Heroku application. [Papertrail] (https://elements.heroku.com/addons/papertrail) is also recommended, but not required.
 
