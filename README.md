@@ -1,4 +1,4 @@
-# Express + Handlebars + Auth Scaffolding
+# Express + Handlebars + Auth + NR Scaffolding
 
 **Application Name:** Express + Handlebars + Auth + NR Scaffolding
 
