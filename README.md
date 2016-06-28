@@ -1,6 +1,6 @@
 # Express + Handlebars + Auth Scaffolding
 
-**Application Name:** Express + Handlebars + Auth Scaffolding
+**Application Name:** Express + Handlebars + Auth + NR Scaffolding
 
 **Application Description:** A simple Node / Express accelerator which includes "[Express-Handlebars] (https://www.npmjs.com/package/express-handlebars)", "[New Relic APM] (https://www.npmjs.com/package/newrelic)" and authentication using the [Force.com PassportJS] (https://github.com/joshbirk/passport-forcedotcom) strategy.
 
