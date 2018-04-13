@@ -16,7 +16,7 @@
     "express-session": "^1.13.0",
     "method-override": "^2.3.5",
     "morgan": "~1.6.1",
-    "newrelic": "^1.28.1",
+    "newrelic": "^4.0.0",
     "passport": "^0.3.2",
     "passport-forcedotcom": "^0.1.3",
     "redis": "^2.6.0-2",
